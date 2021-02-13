@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-12T23:13:26 CST" name="ek_itauto.TestMainEntry" finished-at="2021-02-12T23:13:26 CST" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2021-02-12T23:13:26 CST" name="Command line test" finished-at="2021-02-12T23:13:26 CST" duration-ms="27">
+      <class name="ek_itauto.TestMainEntry">
+        <test-method signature="LoginTest()[pri:0, instance:ek_itauto.TestMainEntry@1a8a8f7c]" started-at="2021-02-12T23:13:26 CST" name="LoginTest" finished-at="2021-02-12T23:13:26 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- ek_itauto.TestMainEntry -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ek_itauto.TestMainEntry -->
+</testng-results>
