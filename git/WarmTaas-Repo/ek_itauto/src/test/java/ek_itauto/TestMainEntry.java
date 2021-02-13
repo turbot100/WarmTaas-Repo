@@ -7,7 +7,7 @@ public class TestMainEntry {
 	@Test
 	public void LoginTest() {
 		
-		System.out.println("setup test");
+		System.out.println("setup test changes");
 	}
 
 }
