@@ -7,7 +7,7 @@ public class TestMainEntry {
 	@Test
 	public void LoginTest() {
 		
-		System.out.println("Welcome to world of auto driver");
+		System.out.println("Welcome ");
 	}
 
 }
